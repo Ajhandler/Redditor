@@ -1,0 +1,1 @@
+This just takes the current top post of reddit and tells you what it is. You know, just incase you wanted.
